@@ -1,0 +1,6 @@
+{
+  "app_name": "Student Info System",
+  "version": "1.0.0",
+  "storage_format": "json",
+  "debug": true
+}
